@@ -1,0 +1,49 @@
+<!DOCTYPE html >
+< html  lang =" zh-CN " >
+  <头>
+    <元 字符集=“ utf-8 ” >
+    < meta  name =" viewport " content =" width=device-width, initial-scale=1 " />
+    < title >康文昌的在线HTML教学小工具</ title >
+    <风格>  
+      身体{
+        边距： 0；
+      }
+    </风格>
+  </头>
+  <身体>
+    < div 样式="
+     背景颜色：#f1f1f1；
+     文本对齐：居中；
+     填充：40px；
+    " >
+     < img  src =' https://p3.ssl.qhimgs1.com/sdr/400__/t016aeaf091b2f84a49.jpg ' alt ="女神" width =" 80px " height =" 80px " >
+    </ div >
+  
+    < div 样式="
+    最大宽度：700px；
+    边距：30px 自动；
+    填充：15px；
+    线高：1.7；
+    红色;
+    " >
+    < p >我的网页</ p >
+    < p >我的网页</ p >
+    < p >我的网页</ p >
+    < p >我的网页</ p >
+    < p >我的网页</ p >
+    </ div >
+    < div 样式="
+    背景颜色：#f1f1f1；
+    文本对齐：居中；
+    填充：40px；
+     字体大小：12px；
+    " >
+   
+    < p >迪丽热巴专属</ p >
+    <a href="https://p3.ssl.qhimgs1.com/sdr/400__/t016aeaf091b2f84a49.jpg" >友情链接</a> _ _  _ _ _
+    
+    
+    </ div >
+   <h1>哈哈新网页</h1>
+  </正文>
+</ html >
